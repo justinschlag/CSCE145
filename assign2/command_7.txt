@@ -1,0 +1,14 @@
+16
+parse -f Class1.java Class2.java Class3.java Class4.java -u -r assign7 -e MACOS MACOSX git vscode from.zip to
+
+true true
+true assign7
+true 4 MACOS MACOSX git vscode
+true 4 Class1.java Class2.java Class3.java Class4.java
+
+5
+1. Create directory named author's (u)sername at target.
+2. Include directory [assign7] if the archive does not contain a (r)oot directory.
+3. (e)xclude files {MACOS, MACOSX, git, vscode}
+4. (f)ilter files not in {Class1.java, Class2.java, Class3.java, Class4.java}
+5. Extract (from) archive [from.zip] (to) directory [to].

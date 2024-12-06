@@ -1,0 +1,10 @@
+3
+parser from.zip to
+
+false
+false
+false
+false
+
+1
+1. Extract (from) archive [from.zip] (to) directory [to].

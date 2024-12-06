@@ -1,0 +1,12 @@
+6
+parser -u -r assign2 from.zip to
+
+true true
+true assign2
+false
+false
+
+3
+1. Create directory named author's (u)sername at target.
+2. Include directory [assign2] if the archive does not contain a (r)oot directory.
+3. Extract (from) archive [from.zip] (to) directory [to].

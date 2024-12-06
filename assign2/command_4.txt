@@ -1,0 +1,13 @@
+11
+parse -u -r assign4 -e MACOS MACOSX git vscode from.zip to
+
+true true
+true assign4
+true 4 MACOS MACOSX git vscode
+false
+
+4
+1. Create directory named author's (u)sername at target.
+2. Include directory [assign4] if the archive does not contain a (r)oot directory.
+3. (e)xclude files {MACOS, MACOSX, git, vscode}
+4. Extract (from) archive [from.zip] (to) directory [to].

@@ -1,0 +1,11 @@
+4
+parser -u from.zip to
+
+true true
+false
+false
+false
+
+2
+1. Create directory named author's (u)sername at target.
+2. Extract (from) archive [from.zip] 
